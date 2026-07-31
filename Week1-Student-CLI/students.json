@@ -1,0 +1,17 @@
+{
+    "1": {
+        "name": "Ali",
+        "roll_number": "1",
+        "marks": {
+            "ML": 48.0
+        }
+    },
+    "2": {
+        "name": "Waqas",
+        "roll_number": "2",
+        "marks": {
+            "Linear": 78.0,
+            "Cal": 90.0
+        }
+    }
+}
